@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.avaya.sdksampleapp.commpackage.DetailActivity"
+    tools:showIn="@layout/activity_detail"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="301dp"
+            android:layout_height="95dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/name_repo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="28dp"
+                android:textColor="@color/blueGray400"
+                android:text="@string/name_of_the_repository"/>
+
+            <TextView
+                android:id="@+id/description_repo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/description_of_the_repository"
+                android:textColor="@color/blueGray400"
+                android:paddingTop="7dp"
+                android:textSize="15dp"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/repo_language"
+            android:layout_width="87dp"
+            android:layout_height="wrap_content"
+            android:background="#90CAF9"
+            android:gravity="top"
+            android:paddingRight="14dp"
+            android:text="C"
+            android:textColor="#37474F"
+            android:textSize="32sp"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Commits:"
+        android:textSize="20dp"
+        android:textColor="@color/blueGray500"
+        />
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/commit_list"/>
+
+</LinearLayout>

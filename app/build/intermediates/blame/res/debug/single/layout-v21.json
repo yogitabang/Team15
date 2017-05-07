@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

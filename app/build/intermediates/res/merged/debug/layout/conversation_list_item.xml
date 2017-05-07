@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:gravity="center_vertical"
+    android:minHeight="?android:attr/listPreferredItemHeightSmall"
+    android:orientation="horizontal"
+    android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+    android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+    android:textAppearance="?android:attr/textAppearanceListItemSmall">
+
+    <TextView
+        android:id="@+id/conversation_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/display_name" />
+
+    <Button
+        android:id="@+id/openchatbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:visibility="visible"
+        android:text="@string/open"
+        android:textAllCaps="false" />
+    <ImageButton
+        android:id="@+id/delete_conversation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:src="@android:drawable/ic_menu_delete"
+        android:enabled="true"
+        android:textAllCaps="false"
+        android:contentDescription="@string/del_conversation"/>
+
+</LinearLayout>

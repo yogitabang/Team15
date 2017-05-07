@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:gravity="center_vertical"
+    android:minHeight="?android:attr/listPreferredItemHeightSmall"
+    android:orientation="horizontal"
+    android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+    android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+    android:textAppearance="?android:attr/textAppearanceListItemSmall">
+
+    <TextView
+        android:id="@+id/remoteUser_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/display_name" />
+
+    <TextView
+        android:id="@+id/end_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="@string/initial_time" />
+		
+    <TextView
+        android:id="@+id/duration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:text="@string/initial_time" />
+
+    <ImageButton
+        android:id="@+id/delete_calllog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:enabled="true"
+        android:src="@android:drawable/ic_menu_delete"
+        android:textAllCaps="false"
+        android:contentDescription="@string/del_call_log"/>
+
+</LinearLayout>

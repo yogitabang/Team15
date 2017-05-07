@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        style="@style/AppTheme"
+        android:padding="8dp"
+        android:layout_weight="0.97">
+
+        <ListView
+            android:id="@+id/messages_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.82"
+            android:clickable="false"
+            android:layout_gravity="right|center_vertical" />/>
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.13">
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="68dp"
+                android:id="@+id/editTextMessage"
+                android:layout_weight="0.06"
+                android:visibility="visible"
+                android:enabled="true"
+                android:editable="true"
+                android:clickable="true"
+                android:focusable="true"
+                android:inputType="text"
+                android:layout_gravity="left|center_vertical"
+
+                android:nestedScrollingEnabled="false"
+                android:ems="10"
+                android:paddingLeft="20dp"
+                android:background="@layout/back"
+                android:layout_span="2"
+                android:layout_column="0"
+                android:layout_toLeftOf="@+id/send_message_button"
+                android:layout_alignParentLeft="true" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/send"
+                android:id="@+id/send_message_button"
+                android:gravity="right"
+                android:enabled="true"
+                android:clickable="true"
+                android:layout_column="3"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:textAlignment="center" />
+    </RelativeLayout>
+
+</LinearLayout>

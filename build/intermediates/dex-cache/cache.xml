@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f209e170ed290f9b0d731862f18a9993f5189f15">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_ac4740a8251d58dd1679bfaca1666be87d647de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/0a7eaca1c3cc06e1602483f9d6751642cdec1411/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_02facbd2fbf4833c9959f916d17bd54643c159cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/2e0d9a01927e59391bde26331ed9d39250238142/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_dea083569fcced2a4f88191897bb8282769e7da6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/0c23b39357d11117c7c5ed803fe923c8f4e53aa8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_ca29de9101e9b30301d3f47bbb02644c146b3be6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/libs/org.eclipse.egit.github.core-2.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1c010e279ff0355a996f00b71512a8636e681d7">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/org.eclipse.egit.github.core-2.1.5_065318543b82dfa3f2b8994448f1f8f9af8bff97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/fe8048ebed5ed6f5b0e91665edbf47bc0a59e738/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3b636609b5de15416613e3366e5404f3ba0307f">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_483b301b38e10be029757fc8c4fc49bdc7b073c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_f227aab1bb5932a856547a09ef4f2a73a38895a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/c5355f93e64b21261d0c4320f4a5bcb42a0be332/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_376e1b34660980fba7e3b0116666dfa04cf49be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/87a1eb6b38712f6a7e6a557e1069849a746b4e1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_4d3805f85cd9ab1cbb644d5255f83bfe89cc404d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_5a3a3513d43e5e18e43fdbf52abfc5c6195a2157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/a37d5b80d85fd5cf5fd7055e4089c96be63dd7d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_5b6a3373df6cf46499055d924546114bff0e8df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_92811923611159536c2a2b3b293bb59befcce2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/806970a72f06f99cf732aad02a17975b1af40742/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_6ca50b6c47f336d31f69f8d86f6d687b744bdc78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/c3c282b36187c937e295346781c6f2c921d47bc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_894376cc80b06050a30b06c1b27cd91b6f71b9ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/0f700681e670fd5b12af9f119df49ffaa468d03f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_3423ffe3e33dbfd10fe83f38a7d24c53411dd5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/d8bc59ebadf8b4e54140de67a142e0795b5a5111/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_824b237407f699780deb02090db4a7aa589c832a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/gson-2.3.1_a7ab3916697848893a69124131e1748e0c52e9ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/5a8d94c6336d634ff996733de6e312078f5965df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_94b46350384ae553c912af8160e65c7b103bda3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/2e270ee9b9fc4eed9ffa4c49ee3bf7e37ae4bb5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_51ec1453675d945dab253fac685a7b8e2e1d0a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/c6cabd66a537946207c1913a8af8ac4597efa410/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_b3100c184e4b65024a2497a0213e17323d3de2b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/7412bc3205c39a758c5c35b643f9031dac691de1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_1a53ba6adfa01772b3fa9b9c0c4b030ce13f33b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/54597d16286a219cafb7959201a28d00cbf7be62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_6f9a0ff1a6bb8cdba2a1ac4b607a59cd175043ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b9388f35ee5165ba284f4c565fd2b44d9da4e9c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/90718cbabb0c4a75eee9c2771364ebac4952792a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_21ea4b6080e65feb90d1fcf00beb499510eae1a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yogita/.android/build-cache/dbadbdf88f3afabac7c6aca125f62a392704b78a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/pre-dexed/debug/classes_9d05ad49c4f7ad8f7697cc3f3d27ba323cb2092f.jar" />
+    </item>
+
+</items>

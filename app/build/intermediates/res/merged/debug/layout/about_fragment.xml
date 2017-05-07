@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/sample_app_version"
+            android:id="@+id/sample_app_version_header"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true" />
+
+        <Space
+            android:layout_width="20px"
+            android:layout_height="20px"
+            android:layout_toRightOf="@+id/sample_app_version_header"
+            android:id="@+id/space" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sample_app_version"
+            android:id="@+id/sample_app_version_value"
+            android:layout_alignBottom="@+id/sample_app_version_header"
+            android:layout_toRightOf="@+id/space" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/sdk_version"
+            android:id="@+id/sdk_version_header"
+            android:layout_below="@+id/sample_app_version_header"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="33dp" />
+
+        <Space
+            android:layout_width="20px"
+            android:layout_height="20px"
+            android:id="@+id/space2"
+            android:layout_toRightOf="@+id/sdk_version_header" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sdk_version"
+            android:id="@+id/sdk_version_value"
+            android:layout_alignBottom="@+id/sdk_version_header"
+            android:layout_toRightOf="@+id/space2"/>
+
+        <Space
+            android:layout_width="20px"
+            android:layout_height="20px"
+            android:id="@+id/space3"
+            android:layout_below="@+id/sample_app_version_header" />
+
+        <Space
+            android:layout_width="20px"
+            android:layout_height="20px"
+            android:id="@+id/space4" />
+
+    </RelativeLayout>
+
+</LinearLayout>

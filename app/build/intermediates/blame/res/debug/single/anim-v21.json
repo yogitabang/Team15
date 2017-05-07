@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

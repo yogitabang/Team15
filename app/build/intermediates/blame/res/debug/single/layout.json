@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/message_status_icon.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/message_status_icon.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/message_text_left.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/message_text_left.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/user_name_left.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/user_name_left.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/conversation_list_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/conversation_list_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/settings_amml_service_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/settings_amml_service_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/call_logs_list_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/call_logs_list_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/contact_list_item.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/contact_list_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/arrayelement.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/arrayelement.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/message_picture_left.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/message_picture_left.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/message_text_right.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/message_text_right.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/footer_view.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/footer_view.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/message_view_left.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/message_view_left.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/settings_call_service_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/settings_call_service_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/user_name_right.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/user_name_right.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/chat_child.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/chat_child.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/message_status_text.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/message_status_text.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/call_log_list_item.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/call_log_list_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/about_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/about_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/content_sharing_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/content_sharing_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/our_main.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/our_main.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/content_detail.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/content_detail.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/content_chat.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/content_chat.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/contacts_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/contacts_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/call_init_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/call_init_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/activity_detail.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/chat_view.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/chat_view.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/user_icon_left.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/user_icon_left.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/dynamic_view_holder.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/dynamic_view_holder.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/contact_details_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/contact_details_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/create_chat_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/create_chat_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/conversation_list_item.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/conversation_list_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/conversation_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/conversation_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/user_icon_right.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/user_icon_right.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/message_picture_right.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/message_picture_right.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/settings_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/settings_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/participant_list_item.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/participant_list_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/message_view_right.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/message_view_right.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/start_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/start_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/active_call_fragment.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/active_call_fragment.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/chat_item.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/chat_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/video_frame_layout.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/video_frame_layout.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/date_cell.xml",
+        "source": "/home/yogita/.android/build-cache/2f4e1bf1201e80aef29c349493f755ce554d33d1/output/res/layout/date_cell.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/back.xml",
+        "source": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/src/main/res/layout/back.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/yogita/.android/build-cache/36634030f9800f67af27a85e783dec8596884c42/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/yogita/Downloads/BreezeClient/CommunicationPackage/sample/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/yogita/.android/build-cache/48eba8ba2e910ec2e06b5c1f463de37d6461d3e6/output/res/layout/design_navigation_item_header.xml"
+    }
+]
